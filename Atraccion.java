@@ -16,5 +16,9 @@ public class Atraccion {
 	public String getnombre() {
 		return nombre;
 	}
-
+	public double getCosto() {
+		return costo;
+	}
 }
+
+
